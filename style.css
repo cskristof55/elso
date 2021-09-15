@@ -6,4 +6,5 @@
 .beslo{
     border:  1px dashed red;
     width: 40%;
+    display: inline-block;
 }
