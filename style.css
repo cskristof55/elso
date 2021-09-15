@@ -1,0 +1,9 @@
+.kulso{
+    border: 1px solid blue;
+    width: 100%;
+}
+
+.beslo{
+    border:  1px dashed red;
+    width: 40%;
+}
